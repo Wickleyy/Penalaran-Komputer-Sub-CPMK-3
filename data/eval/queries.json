@@ -1,0 +1,46 @@
+[
+    {
+        "query_id": 14,
+        "query_text": "mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia putusan.mahkamahagung.go.id penetapan nomor 16/pid/2020/pt mnd demi keadilan berdasarkan ketuhanan yang maha esa majelis hakim pengadilan tinggi manado; setelah membaca: penetapan wakil ketua pengadilan tinggi manado tanggal 20 februari 2020 nomor : 16/pid/2020/pt mnd. tentang penunjukan susunan majelis hakim untuk mengadili perkara terdakwa terdakwa : 1. nama lengkap : herry ritwan talalo alias herry ; tempat lahir : manado ; umur/tanggallahir : 31 tahun/ 25 september 1987 ; jenis kelamin : laki-laki ; kewarganegaraan : indonesia ; tempat tinggal : kelurahan tanjung batu lingkungan iv kecamatan wanea kota manado ; agama pekerjaan : : kristen protestan ; instruktur gym 2. nama lengkap : agustinus bawihu alias lams ; tempat lahir : manado ; umur/tanggal lahir : 35 tahun/ 20 agustus 1983 ; jenis kelamin : laki-laki. kewarganegaraan : indonesia. tempat tinggal : kelurahan wanea lingkungan iv kecamatan wanea kota manado ; agama pekerjaan : : kristen ; instruktur gym ; 3. nama lengkap : andi supiadi alias andi ; hal. 1d",
+        "true_pasal": "Pasal 338 KUHP (Pembunuhan Biasa)",
+        "ground_truth_case_ids": [
+            8
+        ]
+    },
+    {
+        "query_id": 19,
+        "query_text": "menimbang bahwa permintaan banding oleh penuntut umum telah diajukan dalam tenggang waktu dan menurut tata cara serta syarat yang ditentukan dalam undang -undang, oleh karena itu permohonan banding tersebut secara formal dapat diterima; menimbang bahwa penuntut umum mengajukan upaya hukum banding dengan disertai memori banding yang pada pokoknya sebagai berikut 1. menyatakan terdakwa afrikandi taulu telah terbukti secara sah dan meyakinkan menurut hukum bersalah melakukan tindak pidana “turut serta melakukan tindak pidana penganiayaan mengakibatkan matinya orang“ sebagaimana dakwaan alternatif ketiga penuntut umum melanggar pasal 466 ayat (3) jo pasal 20 huruf c undang- undang nomor 1 tahun 2023 tentang kitab undang -undang hukum pidana. 2. menjatuhkan pidana terhadap terdakwa afrikandi taulu dengan pidana penjara selama 4 (empat) tahun, dikurangi masa penahanan yang telah dijalani oleh terdakwa dengan perintah agar terdakwa tetap ditahan. 3. menetapkan barang bukti berupa: disclaimer kepaniteraan mahkamah agung republik indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen mahkamah agung untuk pelayanan publik, transparansi dan akunt",
+        "true_pasal": "Pasal 338 KUHP (Pembunuhan Biasa)",
+        "ground_truth_case_ids": [
+            20,
+            21,
+            15
+        ]
+    },
+    {
+        "query_id": 13,
+        "query_text": "mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia putusan.mahkamahagung.go.id p u t u s a n nomor 15/pid/2023/pt mnd demi keadilan berdasarkan ketuhanan yang maha esa pengadilan tinggi manado yang mengadili perkara pidana pada tingkat banding telah menjatuhkan putusan seperti tersebut dibawah ini, dalam perkara terdakwa: nama lengkap : rico kumaseh alias coco. tempat lahir : paso. umur/tanggal lahir : 32 tahun / 6 mei 1990. jenis kelamin : laki-laki. kebangsaan : indonesia. tempat tinggal : desa paso, jaga iv, kecamatan kakas barat, kabupaten minahasa. agama : kristen. pekerjaan : - pendidikan : sd ( tidak tamat ). terdakwa rico kumaseh alias coco ditahan dalam tahanan rutan; 1. penangkapan pada tanggal 30 april 2022 berdasarkan surat perintah penahanan nomor sp. han/40/iv/2022/reskrim; 2. penyidik sejak tanggal 01 mei 2022 sampai dengan tanggal 20 mei 2022; 3. penyidik perpanjangan oleh penuntut umum sejak tanggal 21 mei 2022 sampai dengan tanggal 29 juni 2022; 4. penyidik perpanjangan pertama oleh ketua pengadilan negeri sejak tanggal 30 juni 2022 sampai dengan ",
+        "true_pasal": "Pasal 340 KUHP (Pembunuhan Berencana)",
+        "ground_truth_case_ids": [
+            12,
+            17
+        ]
+    },
+    {
+        "query_id": 30,
+        "query_text": "mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia putusan.mahkamahagung.go.id halaman 1 petikan putusan no 66/pid/2025/pt mnd petikan putusan perkara berdasarkan pasal 226 kuhap. petikan putusan nomor 66/pid/2025/pt mnd demi keadilan berdasarkan ketuhanan yang maha esa pengadilan tinggi manado, yang mengadili perkara pidana dalam peradilan tingkat banding telah menjatuhkan putusan dalam perkara terdakwa: 1. nama lengkap : adrian awalo 2. tempat lahir : maumbi 3. umur/tanggal lahir : 28 tahun/12 april 1997 4. jenis kelamin : laki-laki 5. kebangsaan : indonesia 6. tempat tinggal : desa maumbi, jaga v, kec. kalawat, kab minahasa utara 7. agama : kristen 8. pekerjaan : tidak diketahui terdakwa ditahan dalam rumah tahanan negara oleh: 1. penyidik sejak tanggal 10 februari 2025 sampai dengan tanggal 1 maret 2025; 2. penyidik perpanjangan oleh penuntut umum sejak tanggal 2 maret 2025 sampai dengan tanggal 10 april 2025; 3. penuntut umum sejak tanggal 11 april 2025 sampai dengan tanggal 30 april 2025; 4. hakim pengadilan negeri sejak tanggal 23 april 2025 sampai dengan ta",
+        "true_pasal": "Pasal Pidana Lainnya",
+        "ground_truth_case_ids": [
+            33
+        ]
+    },
+    {
+        "query_id": 6,
+        "query_text": "menimbang bahwa setelah majelis hakim tingkat banding membaca secara baik dengan seksama berkas perkara bundel a yang didalamnya terdapat berita acara sidang pada hari jumat tanggal 16 agustus 2024 dihubungkan dengan salinan resmi putusan pengadilan negeri kotamobagu nomor 84/pid.b/2024/pn ktg tanggal 16 agustus 2024 ternyata benar bahwa putusan dalam perkara aquo diucapkan dalam persidangan yang terbuka untuk umum pada hari jumat tanggal 16 agustus 2024 dihadiri jaksa penuntut umum dan para terdakwa didampingi penasihat hukumnya, dan kemudian pengajuan permintaan untuk pemeriksaan dalam tingkat banding oleh penuntut umum dan oleh penasihat hukum terdakwa ii diajukan dihadapan panitera pengadilan negeri kotamobagu pada hari jumat tanggal 23 agustus 2024 oleh karena itu menurut majelis hakim tingkat banding permintaan banding yang diajukan oleh penuntut umum dan oleh penasihat hukum terdakwa ii tersebut masih dalam tenggang waktu 7(tujuh) hari terhitung sejak putusan diucapkan sehingga memenuhi syarat batas waktu pengajuan upaya banding sebagaimana yang ditentukan dalam pasal 233 kuhap karenanya permintaan banding dari penuntut umum dan oleh penasihat hukum terdakwa ii tersebut seca",
+        "true_pasal": "Pasal 340 KUHP (Pembunuhan Berencana)",
+        "ground_truth_case_ids": [
+            25,
+            31
+        ]
+    }
+]

@@ -24,6 +24,7 @@ Penyusunan kode dan penyimpanan berkas dalam repositori ini diatur sebagai berik
 │   ├── raw/                         # Teks bersih hasil ekstraksi PDF (.txt)
 │   ├── processed/                   # Dataset terstruktur dalam format CSV
 │   └── eval/                        # Berkas pengujian kueri dan metrik evaluasi
+│   └── results/                     # Hasil prediksi akhir
 │
 ├── notebooks/
 │   ├── 01_case_base_building.ipynb  # Tahap 1: Konversi & Pembersihan Teks
@@ -31,9 +32,6 @@ Penyusunan kode dan penyimpanan berkas dalam repositori ini diatur sebagai berik
 │   ├── 03_retrieval.ipynb           # Tahap 3: Vektorisasi TF-IDF & Retrieval
 │   ├── 04_predict.ipynb             # Tahap 4: Prediksi (Majority Vote)
 │   └── 05_evaluation.ipynb          # Tahap 5: Evaluasi Model
-│
-├── results/
-│   └── predictions.csv              # Hasil prediksi akhir
 │
 ├── requirements.txt                 # Daftar dependensi Python
 └── README.md                        # Dokumentasi utama proyek
